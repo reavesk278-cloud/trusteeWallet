@@ -1,11 +1,4 @@
-## Trustee Wallet
-
-[Trustee Wallet](https://trustee.deals/) is the secure and simple way to create and manage crypto accounts. Quick and safe buy and sell bitcoin directly with your Visa or MasterCard
-
-
-
-
-### Building for Android 
+app building for android and apple phones buy and sell bitcoin directly with your  
 
 All building steps are tested with Ubuntu 16.04
 
